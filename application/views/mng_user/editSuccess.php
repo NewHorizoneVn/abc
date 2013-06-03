@@ -1,2 +1,2 @@
 Update Successful
-<a href="">Index</a>
+<a href="index">Index</a>
